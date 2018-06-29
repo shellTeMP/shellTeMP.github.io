@@ -1,8 +1,8 @@
-Origin: arcetera's repo
-Label: arcetera
-Suite: stable
+Origin: ShellTeMP's repo
+Label: ShellTeMP
+Suite: Stable
 Version: 1.0
-Codename: arcetera's repo
+Codename: ShellTeMP's repo
 Architectures: iphoneos-arm
 Components: main
 Description: The official Minimal Hosts Blocker repo, along with some other things
