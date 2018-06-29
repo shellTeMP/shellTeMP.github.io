@@ -1,4 +1,4 @@
-freezingrepo
+shellTeMP Cydia Repository
 ============
 
-cydia repo
+Cydia Repository
